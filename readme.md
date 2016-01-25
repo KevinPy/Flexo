@@ -1,7 +1,7 @@
 ![Flexo logo](http://kpy.me/Projects/Flexo/out/flexo-logo.png)
 # Flexo
 ### CSS Grid with Flex property
-A grid system based on `flex property, and works 100% CSS.
+A grid system based on `flex` property, and works 100% CSS.
 ***
 **Author**: *Kevin Py*<br />
 **Website**: <https://kevinpy.com><br />
