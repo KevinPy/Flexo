@@ -8,4 +8,4 @@ A grid system based on `flex property, and works 100% CSS.
 **Flexo Website**: <https://kevinpy.com/Projects/Flexo>
 ***
 #### Installation
-You are just one file (`flexo.css` or `flexo.min.css) to drag and drop into your CSS folder.
+You are just one file (`flexo.css` or `flexo.min.css`) to drag and drop into your CSS folder.
