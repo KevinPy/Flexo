@@ -6,7 +6,7 @@ A grid system based on `flex` property, and works 100% CSS.
 **Author**: *Kevin Py*<br />
 **Website**: <https://kevinpy.com><br />
 **Flexo Website**: <https://kevinpy.com/Projects/Flexo><br />
-**Version**: 0.0.1
+**Version**: 0.1.0
 ***
 #### Installation
 You are just one file (`flexo.css` or `flexo.min.css`) to drag and drop into your CSS folder.
