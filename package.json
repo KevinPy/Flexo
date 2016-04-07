@@ -1,0 +1,20 @@
+{
+  "name": "flexo",
+  "version": "0.1.0",
+  "description": "A grid system based on flex property, and works 100% CSS.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KevinPy/Flexo.git"
+  },
+  "keywords": [
+    "grid",
+    "flexbox",
+    "flex"
+  ],
+  "author": "Kevin Py",
+  "license": "CC-BY-SA-3.0",
+  "bugs": {
+    "url": "https://github.com/KevinPy/Flexo/issues"
+  },
+  "homepage": "https://github.com/KevinPy/Flexo#readme"
+}
