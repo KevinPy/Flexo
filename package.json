@@ -1,5 +1,5 @@
 {
-  "name": "flexo",
+  "name": "flexo-css",
   "version": "0.1.0",
   "description": "A grid system based on flex property, and works 100% CSS.",
   "repository": {
