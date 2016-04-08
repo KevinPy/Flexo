@@ -4,8 +4,8 @@
 A grid system based on `flex` property, and works 100% CSS.
 ***
 **Author**: *Kevin Py*<br />
-**Website**: <https://kevinpy.com><br />
-**Flexo Website**: <https://kevinpy.com/Projects/Flexo><br />
+**Website**: <http://kevinpy.com><br />
+**Flexo Website**: <http://kevinpy.com/Projects/Flexo><br />
 **Version**: 0.1.0
 ***
 #### Installation
