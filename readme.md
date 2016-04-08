@@ -18,4 +18,4 @@ You are just one file (`flexo.css` or `flexo.min.css`) to drag and drop into you
 `npm i flexo-css --save`
 
 #### Usage
-Flexo use a lot of CSS Classes. If you want to learn how Flexo works, check the documention on the Flexo's website: https://kevinpy.com/Projects/Flexo/
+Flexo use a lot of CSS Classes. If you want to learn how Flexo works, check the documention on the Flexo's website: http://kevinpy.com/Projects/Flexo/
