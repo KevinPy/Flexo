@@ -19,5 +19,11 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "dependencies": {
+    "Flexo": "https://github.com/KevinPy/Flexo"
+  },
+  "devDependencies": {
+    "Flexo": "https://github.com/KevinPy/Flexo"
+  }
 }
