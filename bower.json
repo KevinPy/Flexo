@@ -1,9 +1,9 @@
 {
   "name": "flexo-css",
+  "version": "0.1.0",
   "homepage": "https://github.com/KevinPy/Flexo",
   "description": "A grid system based on flex property, and works 100% CSS.",
   "main": "flexo.css",
-  "moduleType": [],
   "keywords": [
     "grid",
     "flexbox",
@@ -13,13 +13,6 @@
     "Kevin Py"
   ],
   "license": "CC-BY-SA-3.0",
-  "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests"
-  ],
   "dependencies": {
     "Flexo": "https://github.com/KevinPy/Flexo"
   },
