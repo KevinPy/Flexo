@@ -1,5 +1,5 @@
 {
-  "name": "Flexo",
+  "name": "flexo-css",
   "homepage": "https://github.com/KevinPy/Flexo",
   "description": "A grid system based on flex property, and works 100% CSS.",
   "main": "flexo.css",
