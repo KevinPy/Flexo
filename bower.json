@@ -2,7 +2,7 @@
   "name": "Flexo",
   "homepage": "https://github.com/KevinPy/Flexo",
   "description": "A grid system based on flex property, and works 100% CSS.",
-  "main": "",
+  "main": "flexo.css",
   "moduleType": [],
   "keywords": [
     "grid",
